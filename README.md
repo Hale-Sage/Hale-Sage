@@ -12,7 +12,7 @@
 
 <!-- - 🤔 I'm passionate about combining robotics, machine learning, and intelligent systems to build autonomous agents that can perceive, reason, and act in the real world.-->
 
-- 📫 My personal homepage:[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+- 📫 My personal homepage:(https://github.com/Hale-Sage)
 
 - 💬 My contact information:.
 
