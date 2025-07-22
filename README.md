@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Haizhi Huang (黄海智)
 
-I'm currently a Ph.D. student at **Harbin Institute of Technology, Shenzhen**. I received both my Bachelor's and Master's degrees from **Northwestern Polytechnical University (NPU)** in Xi'an, China.
+- 🔭 I'm currently a Ph.D. student at **Harbin Institute of Technology, Shenzhen**. I received both my Bachelor's and Master's degrees from **Northwestern Polytechnical University (NPU)** in Xi'an, China.
 
 🔬 My research interests include:  
 - **Vision-based UAV navigation**  
