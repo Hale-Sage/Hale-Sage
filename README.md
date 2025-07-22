@@ -4,13 +4,13 @@
 
 - 🔬 My research interests include:
   
-  - Vision-based UAV navigation
+  - **Vision-based UAV navigation**
   
-  - Multi-agent reinforcement learning and adversarial games
+  - **Multi-agent reinforcement learning and adversarial games**
     
-  - Vision-language models (VLMs)
+  - **Vision-language models (VLMs)**
 
-- 🤔 I'm passionate about combining robotics, machine learning, and intelligent systems to build autonomous agents that can perceive, reason, and act in the real world.
+<! -- - 🤔 I'm passionate about combining robotics, machine learning, and intelligent systems to build autonomous agents that can perceive, reason, and act in the real world.-->
 
 - 📫 My personal homepage:
 
