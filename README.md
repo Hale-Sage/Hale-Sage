@@ -12,7 +12,7 @@
 
 <!-- - 🤔 I'm passionate about combining robotics, machine learning, and intelligent systems to build autonomous agents that can perceive, reason, and act in the real world.-->
 
-- 📫 My personal homepage:(https://github.com/Hale-Sage)
+- 📫 My personal homepage:[Personal Website](https://hale-sage.github.io/)
 
 - 💬 My contact information:.
 
