@@ -1,12 +1,14 @@
 ### 👋 Hi there, I'm Haizhi Huang (黄海智)
 
-- 🔭 I'm currently a Ph.D. student at **Harbin Institute of Technology, Shenzhen**. <!-- I received both my Bachelor's and Master's degrees from **Northwestern Polytechnical University (NPU)** in Xi'an, China.-->
+- 🔭 I am currently working on my Ph.D. at **Harbin Institute of Technology, Shenzhen**. <!-- I received both my Bachelor's and Master's degrees from **Northwestern Polytechnical University (NPU)** in Xi'an, China.-->
 
 - 🔬 My research interests include: Vision-based UAV navigation、Multi-agent reinforcement learning and adversarial games、Vision-language models (VLMs)
 
 - 🤔 I'm passionate about combining robotics, machine learning, and intelligent systems to build autonomous agents that can perceive, reason, and act in the real world.
 
-- 📫 Feel free to connect or collaborate!
+- 📫 My personal homepage:
+
+- 💬 My contact information:.
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
