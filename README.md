@@ -14,7 +14,7 @@
 
 - 📫 My personal homepage: [Personal Website](https://hale-sage.github.io/)
 
-- 💬 Email:hhz@mail.nwpu.edu.cn.
+- 💬 Email: hhz@mail.nwpu.edu.cn.
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
