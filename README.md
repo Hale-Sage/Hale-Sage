@@ -4,9 +4,9 @@
 
 - 🔬 My research interests include:
   
-  - **Vision-based UAV navigation**
+  - **Vision-based UAV Navigation**
   
-  - **Multi-agent reinforcement learning and adversarial games**
+  - **Multi-Agent Reinforcement Learning and Adversarial Games**
     
   - **Vision-Language Navigation**
 
